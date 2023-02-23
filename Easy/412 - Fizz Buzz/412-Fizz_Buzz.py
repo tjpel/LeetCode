@@ -14,6 +14,3 @@ class Solution:
                 output += [str(i)]
 
         return output
-
-s1 = Solution()
-print(s1.fizzBuzz(15))
