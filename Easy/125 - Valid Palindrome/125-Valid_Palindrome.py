@@ -10,9 +10,4 @@ class Solution:
                 print(cleaned[i], i, cleaned[-i-1])
                 return False
             
-        return True
-
-s = Solution()
-print(s.isPalindrome("A man, a plan, a canal: Paama"))
-
-        
+        return True     
