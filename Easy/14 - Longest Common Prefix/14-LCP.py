@@ -5,7 +5,6 @@ class Solution():
         elif len(strs) == 1:
             return strs[0]
         else:
-            
             prefix = strs[0]
 
             for s in strs[1:]:
